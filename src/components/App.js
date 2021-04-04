@@ -14,7 +14,7 @@ const AppDiv = styled.div`
   width: fit-content;
   font-size: 24px;
   text-align: center;
-  margin-bottom: 4px;
+  margin: 20px auto;
   .new-game-btn {
     margin-bottom: 12px;
   }
